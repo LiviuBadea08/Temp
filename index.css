@@ -1,0 +1,10 @@
+* {
+  background-color: blueviolet;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  2.9s cubic-bezier(.1,.81,.96,.38);
+}
