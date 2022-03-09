@@ -4,7 +4,7 @@ Trabajo extra del bootcamp de factoriaF5, un cronómetro hecho en JS.
 
 ## Instalación
 
-No requiere falta instalacion.
+No requiere instalacion.
 
 ## Construido con:
 
